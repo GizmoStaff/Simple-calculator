@@ -11,7 +11,7 @@ Calculator with four basic functions:
 ### BUILT
 - IDE: Android Studio
 - Kotlin
-- 
+
 
 
 ### CLONE THE REPO
